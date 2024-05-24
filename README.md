@@ -55,7 +55,7 @@ The provided .csv file of more than 34,000 organizations that have received fund
 - I think it would be worthwhile to look a bit more into preprocessing the data in other ways to optimize the model, especially since both my own thoughtful efforts and the `keras-tuner` automated efforts yielded roughly the same accuracy.
 ### Further Information
 #### Prerequisites
-- Familiarity with and use of the Python programming language, and [Google Colab](colab.research.google.com) to interact with .ipynb files
+- Familiarity with and use of the Python programming language, and [Google Colab](colab.research.google.com) to interact with .ipynb files.
 #### Usage
 - Download the contents of the repo (as they are) to the same directory.
 - Navigate to [Google Colab](colab.research.google.com) to explore the `.ipynb` files, in this order (for clarity):
